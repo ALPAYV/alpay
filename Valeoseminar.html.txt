@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valeo Aftermarket Seminar</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+            color: #333;
+        }
+        header {
+            background-color: #007bff;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Valeo Aftermarket Seminar</h1>
+    </header>
+    <div class="container">
+        <h2>Welcome / Bienvenue / Hoş Geldiniz</h2>
+        <p>
+            Welcome to the Valeo Aftermarket Seminar! Join us for an informative and engaging event where we discuss the latest trends and innovations in the automotive aftermarket industry.
+        </p>
+        <h2>Details / Détails / Detaylar</h2>
+        <p>
+            Date: TBD<br>
+            Location: TBD
+        </p>
+        <h2>Agenda / Programme / Gündem</h2>
+        <p>
+            Stay tuned for updates on the agenda.
+        </p>
+        <h2>Contact / Contact / İletişim</h2>
+        <p>
+            For inquiries, please contact us at <a href="mailto:info@valeoseminar.com">info@valeoseminar.com</a>.
+        </p>
+    </div>
+</body>
+</html>
